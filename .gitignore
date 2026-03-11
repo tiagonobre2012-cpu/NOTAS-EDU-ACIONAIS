@@ -1,6 +1,9 @@
-__pycache__/
+﻿__pycache__/
 *.pyc
 .venv/
 backend/.venv/
 frontend/node_modules/
+front-end/node_modules/
+front-end/dist/
 backend/escola.db
+
